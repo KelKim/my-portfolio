@@ -1,0 +1,23 @@
+html, * {margin:0px; padding:0px}
+.container_colum {margin-top: -20px}
+.row2 .col-md-6 {background-image: url("Assets/images/kimathi.jpg");
+                background-size:cover;
+                 height:450px;  }
+
+.row2 .col-md-3 p {text-align: justify;
+                    font-family: "Tahoma";
+                  color:blue;
+                margin-top: 80px;
+              font-size: 14px;
+            }
+
+.row2 .col-md-3 h4 {font-weight: bold;
+                    color:#f00;
+                  text-align: center;
+                margin-top:20px;
+                  }
+.row2 .col-md-3 ul li {color:blue}
+#p      {width:90%}
+
+.lastrow {background-color: silver;
+        margin-top:-20px ;}
