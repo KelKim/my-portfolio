@@ -21,3 +21,4 @@ html, * {margin:0px; padding:0px}
 
 .lastrow {background-color: silver;
         margin-top:-20px ;}
+.col-md-2 .img{size: "height: 100px width: 100px"}
