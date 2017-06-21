@@ -20,5 +20,8 @@ html, * {margin:0px; padding:0px}
 #p      {width:90%}
 
 .lastrow {background-color: silver;
-        margin-top:-20px ;}
+        margin-top:-20px ;
+        margin-bottom: 50%;
+      }
+
 .col-md-2 .img{size: "height: 100px width: 100px"}
